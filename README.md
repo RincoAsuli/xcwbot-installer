@@ -13,8 +13,8 @@ Invoke-WebRequest http://ftp.pcrbotlink.top/install.ps1 -OutFile .\install.ps1 ;
 ```
 
 **注：提示"无法加载文件 ./install.ps1，因为在此系统中禁止执行脚本。有关详细信息，请参阅 "get-help about_signing"。"？
-解决方法：管理员运行powershell，执行"set-ExecutionPolicy RemoteSigned"，选择"[Y] 是(Y)"。**
+      解决方法：管理员运行powershell，执行"set-ExecutionPolicy RemoteSigned"，选择"[Y] 是(Y)"。**
 
 ## Linux
 
-**没有linux,对不起，我太菜了**
+**没有linux，对不起，我太菜了**
